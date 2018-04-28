@@ -21,13 +21,13 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*7)+ 1);
 var xxx=null;
-if(x=="1"){xxx="stress-eating-helps.html"}
-if(x=="2"){xxx="google-drive-cloud.html"}
-if(x=="3"){xxx="how-to-read-forex-chart-properly.html"}
-if(x=="4"){xxx="auto-insurance.html"}
-if(x=="5"){xxx="ways-to-get-cheapest-health-insurance.html"}
-if(x=="6"){xxx="wellbore-stability-while-drilling.html"}
-if(x=="7"){xxx="underlying-strata-failure-due-to-mining.html"}a_to_ve[i].href="https://ratertip.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="2018/04/stress-eating-helps.html"}
+if(x=="2"){xxx="2018/04/google-drive-cloud.html"}
+if(x=="3"){xxx="2018/04/how-to-read-forex-chart-properly.html"}
+if(x=="4"){xxx="2018/04/auto-insurance.html"}
+if(x=="5"){xxx="2018/04/ways-to-get-cheapest-health-insurance.html"}
+if(x=="6"){xxx="2018/04/wellbore-stability-while-drilling.html"}
+if(x=="7"){xxx="2018/04/underlying-strata-failure-due-to-mining.html"}a_to_ve[i].href="https://ratertip.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
